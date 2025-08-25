@@ -1,0 +1,1 @@
+This project is an index page with links to local pages with recipes. The finished project will demonstrate my skills in HTML, as well as Git.
