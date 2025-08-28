@@ -1,3 +1,15 @@
 body {
     background-color: darksalmon;
 }
+
+.navbar {
+    padding: 32px;
+    background-color: darkcyan;
+    /* color: #def; */
+}
+
+.navbar a {
+    background-color: #def;
+    padding: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
