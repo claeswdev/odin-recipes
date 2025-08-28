@@ -18,19 +18,19 @@ h6 {
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
-.navbar {
+nav {
     padding: 32px;
     background-color: darkcyan;
     /* color: #def; */
 }
 
-.navbar a {
+nav a {
     background-color: #def;
     padding: 8px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.main-heading {
+header {
     /* outline: 2px solid red; */
     display: flex;
     flex-direction: column;
@@ -38,11 +38,7 @@ h6 {
     margin: 16px 0;
 }
 
-.main-heading h1 {
-    /* padding: 16px 0 8px; */
-}
-
-.main-heading img {
+header img {
     width: 300px;
     height: auto;
     margin-top: 16px;
