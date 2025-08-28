@@ -21,3 +21,8 @@ div#title h1 {
     width: fit-content;
     margin: 0 auto;
 }
+
+div ul li a img {
+    height: auto;
+    width: 275px;
+}
