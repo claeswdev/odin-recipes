@@ -1,5 +1,21 @@
 body {
+    background-color: #def;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.wrapper {
     background-color: darksalmon;
+
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .navbar {
@@ -12,4 +28,22 @@ body {
     background-color: #def;
     padding: 8px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.main-heading {
+    /* outline: 2px solid red; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 16px 0;
+}
+
+.main-heading h1 {
+    /* padding: 16px 0 8px; */
+}
+
+.main-heading img {
+    width: 300px;
+    height: auto;
+    margin-top: 16px;
 }
