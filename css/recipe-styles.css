@@ -42,14 +42,14 @@ header img {
     margin-top: 16px;
 }
 
-section#description {
+section {
+    margin: 16px 0;
+    padding: 0 32px;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin: 16px 0;
-    padding: 0 32px;
 }
 
-section#description h2 {
+section h2 {
     margin-bottom: 8px;
 }
