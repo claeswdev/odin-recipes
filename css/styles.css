@@ -22,7 +22,17 @@ div#title h1 {
     margin: 0 auto;
 }
 
-div ul li a img {
+/* div#content {
+    
+} */
+
+div#content ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+div#content ul li a img {
     height: auto;
-    width: 275px;
+    width: 300px;
 }
