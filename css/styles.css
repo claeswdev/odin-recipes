@@ -1,5 +1,5 @@
 body {
-    max-width: 600px;
+    max-width: 916px;
     margin: 0 auto;
 }
 
@@ -24,9 +24,12 @@ div#content ul {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
+    list-style-type: none;
+    gap: 8px;
+    flex: 1;
 }
 
 div#content ul li a img {
-    height: auto;
-    width: 300px;
+    height: 200px;
+    max-width: 300px;
 }
